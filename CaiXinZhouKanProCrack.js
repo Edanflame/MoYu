@@ -1,4 +1,3 @@
-/***********************************
 
 > 应用名称：财新周刊
 > 软件版本：4.0.6
@@ -25,7 +24,6 @@ https?:\/\/ipadcms\.caixin\.com\/tmp\/articles url script-response-body https://
 
 hostname=ipadcms.caixin.com
 
-***********************************/
 
 
 
